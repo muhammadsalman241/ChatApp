@@ -1,0 +1,1 @@
+"%java_home%"\bin\jar -cvmf Server.mf Server.jar *.class index.htm index_files

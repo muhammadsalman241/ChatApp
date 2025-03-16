@@ -1,0 +1,1 @@
+"%java_home%"\bin\jar -cvmf chatApp.mf chatApp.jar *.class images
